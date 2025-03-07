@@ -11,7 +11,7 @@ A simple voice-to-text tool that lets you transcribe speech to text with a singl
 - 🎯 Single keyboard shortcut activation
 - 🔒 Privacy-focused (no cloud services, works offline)
 - ⚡ Fast transcription
-- 📝 Paste teext from clipboard with Ctrl+V
+- 📝 Paste transcribed text directly from clipboard with Ctrl+V
 - 🧹 Automatic cleanup of temporary files
 
 ## Prerequisites
