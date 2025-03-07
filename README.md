@@ -1,7 +1,7 @@
 # QUick Audio to text with Gnome Automated Accessible Recording 🎤
 
 [![Python](https://img.shields.io/badge/Python-3.6%2B-blue)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![License](https://img.shields.io/badge/License-Apache_2.0-green.svg)](https://opensource.org/licenses/Apache-2.0)  
 [![Platform](https://img.shields.io/badge/Platform-Linux-lightgrey)](https://www.linux.org/)
 
 A simple voice-to-text tool that lets you transcribe speech to text with a single keyboard shortcut. The transcribed text is automatically pasted wherever your cursor is located.
