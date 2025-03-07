@@ -130,7 +130,7 @@ chmod +x ~/bin/quick-transcribe.py
 
 ## Setting Up the Keyboard Shortcut
 
-1. Open Settings
+1. Open GNOME Settings
 2. Navigate to Keyboard Shortcuts
 3. Click the + at the bottom
 4. Add a new custom shortcut:
