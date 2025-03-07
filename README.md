@@ -1,4 +1,4 @@
-# Quick Voice-to-Text Transcriber 🎤
+# QUick Audio to text with Gnome Automated Accessible Recording 🎤
 
 [![Python](https://img.shields.io/badge/Python-3.6%2B-blue)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
