@@ -1,6 +1,3 @@
-# QUAGAAR - QUick Audio to text with Gnome Automated Accessible Recording 🎤
-<img src="quagaar.webp" alt="QUAGAAR" width="300">  
-
 <table>  
   <tr>  
     <td>  
