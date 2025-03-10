@@ -1,6 +1,17 @@
 # QUAGAAR - QUick Audio to text with Gnome Automated Accessible Recording 🎤
 <img src="quagaar.webp" alt="QUAGAAR" width="300">  
 
+<table>  
+  <tr>  
+    <td>  
+      <img src="quagaar.webp" alt="QUAGAAR" width="150">  
+    </td>  
+    <td>  
+      <h1>QUAGAAR - QUick Audio to text with Gnome Automated Accessible Recording 🎤</h1>  
+    </td>  
+  </tr>  
+</table>  
+
 [![Python](https://img.shields.io/badge/Python-3.6%2B-blue)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-Apache_2.0-green.svg)](https://opensource.org/licenses/Apache-2.0)  
 [![Platform](https://img.shields.io/badge/Platform-Linux-lightgrey)](https://www.linux.org/)
