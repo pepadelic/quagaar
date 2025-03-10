@@ -1,7 +1,7 @@
 <table>  
   <tr>  
     <td>  
-      <img src="quagaar.webp" alt="QUAGAAR" width="150">  
+      <img src="quagaar.webp" alt="QUAGAAR" width="200">  
     </td>  
     <td>  
       <h1>QUAGAAR - QUick Audio to text with Gnome Automated Accessible Recording 🎤</h1>  
