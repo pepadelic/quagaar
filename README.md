@@ -1,4 +1,4 @@
-# QUick Audio to text with Gnome Automated Accessible Recording 🎤
+# QUAGAAR - QUick Audio to text with Gnome Automated Accessible Recording 🎤
 
 [![Python](https://img.shields.io/badge/Python-3.6%2B-blue)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-Apache_2.0-green.svg)](https://opensource.org/licenses/Apache-2.0)  
